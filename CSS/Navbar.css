@@ -1,4 +1,4 @@
-@import "styles.css";
+@import "./styles.css";
 
 .app__navbar {
     max-width: 100%;
