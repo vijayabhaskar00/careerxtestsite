@@ -722,17 +722,10 @@ function emiPopup(type) {
 let fullStackMentors = [
   {
     id: 1,
-    name: "John Doe",
+    name: "Sakilam Sandeep",
     desc: "Having 10+ years of experience in managing mission-critical web projects.Exceptional record overseeing all facets of Application Development Life Cycle",
-    image: "Assets/Potrait.jpg",
-    linkedin: "#",
-  },
-  {
-    id: 2,
-    name: "John Doe",
-    desc: "Having 10+ years of experience in managing mission-critical web projects.Exceptional record overseeing all facets of Application Development Life Cycle",
-    image: "Assets/Potrait.jpg",
-    linkedin: "#",
+    image: "Assets/sakilam.png",
+    linkedin: "#https://www.linkedin.com/in/sandeep-sakilam/",
   },
 ];
 
