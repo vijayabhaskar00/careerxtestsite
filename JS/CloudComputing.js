@@ -42,25 +42,25 @@ let dataScienceIntro = [
     id: 1,
     image: "Assets/CCMap1.svg",
     title: "100+ Hours of Hybrid Learning",
-    desc: "Acquire premium content through live full-stack development classes and offline bootcamps.",
+    desc: "Acquire premium content through live Cloud Computing classes and offline bootcamps.",
   },
   {
     id: 2,
     image: "Assets/CCMap2.svg",
     title: "1:1 Personalized Mentoring from Industry Experts",
-    desc: "Get personalized 1:1 career coaching from 100+ Coaches to learn in-demand Block Chain skills.",
+    desc: "Get personalized 1:1 career coaching from 100+ Coaches to learn in-demand Cloud skills.",
   },
   {
     id: 3,
     image: "Assets/CCMap5.svg",
     title: "Access to Employment Oppurtunities",
-    desc: "Apply for available industry internships and live Block Chain projects and full-time job opportunities.",
+    desc: "Apply for available industry internships and live Cloud projects and full-time job opportunities.",
   },
   {
     id: 4,
     image: "Assets/CCMap4.svg",
     title: "Rs 3-15 LPA CTC Salary Range",
-    desc: "Land your dream job now with our full stack development course with right salary in the right company.",
+    desc: "Land your dream job now with our Cloud Computing cohort with right salary in the right company.",
   },
 ];
 
@@ -157,12 +157,12 @@ let cloudComputingDetails = [
   {
     id: 3,
     title: "Job Roles",
-    desc: "Frontend Dev, Backend Dev, Database, DevOps and Tech Architect",
+    desc: "Cloud engineer, Cloud Expert, DevOps and Cloud Tech Architect",
   },
   {
     id: 4,
     title: " Job Opportunities",
-    desc: "Globally, tons of IT Companies are recruiting Full Stack Developers",
+    desc: "Globally, tons of IT Companies are recruiting Cloud Architects",
   },
   {
     id: 5,
@@ -172,7 +172,7 @@ let cloudComputingDetails = [
   {
     id: 6,
     title: "Jack of All Trade",
-    desc: "Full Stack Developers can fit in any required role, which helps companies cut cost and increase efficiency",
+    desc: "Cloud Developers can fit in any required role, which helps companies cut cost and increase efficiency",
   },
 ];
 
@@ -713,17 +713,10 @@ function emiPopup(type) {
 let cloudComputingMentors = [
   {
     id: 1,
-    name: "John Doe",
-    desc: "Having 10+ years of experience in managing mission-critical web projects.Exceptional record overseeing all facets of Application Development Life Cycle",
-    image: "Assets/Potrait.jpg",
-    linkedin: "#",
-  },
-  {
-    id: 2,
-    name: "John Doe",
-    desc: "Having 10+ years of experience in managing mission-critical web projects.Exceptional record overseeing all facets of Application Development Life Cycle",
-    image: "Assets/Potrait.jpg",
-    linkedin: "#",
+    name: "Prathap Chandra",
+    desc: "Software engineer with an avid interest in Optimization, Performance engineering and I love taking on challenges and love being part of the solutionn Hands on experience in Analysis Development and Implementation with expertise in Javascript.",
+    image: "Assets/prathap.jpeg",
+    linkedin: "https://www.linkedin.com/in/prathapchandra/",
   },
 ];
 
